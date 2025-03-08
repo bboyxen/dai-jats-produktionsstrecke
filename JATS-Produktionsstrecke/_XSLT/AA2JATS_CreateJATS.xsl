@@ -48,7 +48,7 @@
     Autor: Benedikt Boyxen, DAI
     
         Changelog:
-    - Version 2.1: Änderung der Tabellenstruktur, damit diese vom Vieweer gerendert werden kann. Das id-Attribut wurde von <table> auf <table-wrap> verschoben, das rules-Attribut wird nun in <table-wrap> gesetzt; und der Tag <tbody> wurde entfernt.
+    - Version 2.1: Änderung der Tabellenstruktur, damit Tabellen vom Viewer gerendert werden können. Das id-Attribut wurde von <table> auf <table-wrap> verschoben, das rules-Attribut wird nun in <table-wrap> gesetzt; und der Tag <tbody> wurde entfernt.
     
     Version:  2.0
     Datum: 2022-11-25
